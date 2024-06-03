@@ -1,2 +1,0 @@
-make basic blog layout
-get new banner picture
